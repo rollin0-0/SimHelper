@@ -1,4 +1,4 @@
-# SimilarityHelper
+# SimHelper
 相似度检测工具
 
 ## 为工具添加执行权限
