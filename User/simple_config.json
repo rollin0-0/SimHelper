@@ -1,0 +1,4 @@
+{
+  "exclude_dirs": ["Frameworks","Demo"],
+  "Pod_and_Framework_dirs": []
+}

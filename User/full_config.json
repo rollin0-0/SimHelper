@@ -1,0 +1,29 @@
+{
+  "exclude_dirs": [
+    "Frameworks",
+    "Demo"
+  ],
+  "exclude_dir_extensions": [],
+  "exclude_file_extensions": [],
+  "ios_code_file_types": [],
+  "ios_system_extension_exclude_file": "Rules/ios_system_extension_excludes.txt",
+  "ios_system_method_exclude_file": "Rules/ios_system_method_excludes.txt",
+  "ios_system_protocol_method_exclude_file": "Rules/ios_system_protocol_method_excludes.txt",
+  "include_system_methods_in_similarity": false,
+  "include_system_protocol_methods_in_similarity": false,
+  "include_oc_enums_in_similarity": false,
+  "include_oc_enum_cases_in_similarity": false,
+  "include_swift_enum_cases_in_similarity": false,
+  "ios_plist_reserved_key_exclude_file": "Rules/ios_plist_reserved_keys_excludes.txt",
+  "Pod_and_Framework_dirs": [],
+  "ios_resource_package_extensions": [],
+  "ios_layout_file_types": [],
+  "ios_image_file_types": [],
+  "ios_audio_file_types": [],
+  "ios_video_file_types": [],
+  "parser_strategy": "compiler",
+  "ignore_hidden": true,
+  "follow_symlinks": false,
+  "min_compare_string_length": 2,
+  "output_dir": "output"
+}
