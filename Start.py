@@ -76,7 +76,7 @@ def _bootstrap_tool_path() -> None:
 _maybe_reexec_with_runtime()
 _bootstrap_tool_path()
 
-from similarity_helper.p7f89422fcf9b094aaa253f3c48fbaa34 import main
+from similarity_helper.p01a07fbe65ac0cb9af641964d8d46eac import main
 
 if __name__ == "__main__":
     raise SystemExit(main())
