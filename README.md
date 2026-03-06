@@ -1,5 +1,13 @@
+<div align=center>
+<img src="https://i.loli.net/2021/08/14/whD2qBsblmfGxna.png" width = "908" height = "312"/>
+</div>
+
 # SimHelper
 相似度检测工具
+
+
+
+
 
 ## 为工具添加执行权限
 ```
